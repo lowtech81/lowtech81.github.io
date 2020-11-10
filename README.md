@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## 欢迎来到Kaijin的主页
 
-You can use the [editor on GitHub](https://github.com/lowtech81/lowtech81.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+怎么介绍自己呢，这是个问题。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+计算机科班毕业，没写过很多程序的程序员，两个孩子的爸爸，感兴趣的东西倒是蛮多（大多与工作无关），自认为是个终身学习者，理想是教小孩子编程。
 
-### Markdown
+目前在技术领域比较感兴趣的方向：函数式编程、机器学习、云原生相关技术。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+一定要写程序的话，可以使用的语言有Java、Python，也会一些C++、JavaScript之类的，还有古老的Scheme。
 
-```markdown
-Syntax highlighted code block
+当前正在读的技术书籍：
 
-# Header 1
-## Header 2
-### Header 3
+1. Structure and Interpretation of Computer Programs
 
-- Bulleted
-- List
+由于工作的原因，断断续续的刚读到第三章，书上的习题也做了大部分，代码在[这里](https://github.com/lowtech81/sicp-mycode)，请同好们轻拍。
 
-1. Numbered
-2. List
+2. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 
-**Bold** and _Italic_ and `Code` text
+3. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable System
 
-[Link](url) and ![Image](src)
-```
+喜欢广交朋友，当前正经工作主要是做PPT，与此无关的话题都可以聊。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lowtech81/lowtech81.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
